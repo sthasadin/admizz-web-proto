@@ -1,0 +1,40 @@
+/* styles.css */
+.slide {
+  height: 500px;
+  background-size: cover;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color:rgb(168, 162, 162);
+  padding: 40px;
+  font-size: 20px;
+
+}
+.in2{
+  background-color: black;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+.in1{
+  background-color: white;
+  color: black;
+  padding: 10px;
+  text-align: center;
+}
+.image_aline{
+  width: 500px;
+}
+.links{
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-between;
+}
+.btn{
+  background-color: brown;
+  padding: 10px;
+  color: white;
+  border: 0px;
+  border-radius: 8px;
+}
