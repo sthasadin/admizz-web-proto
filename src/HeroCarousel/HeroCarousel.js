@@ -60,7 +60,7 @@ const HeroCarousel = () => {
           </div>
           <div className=''>
           <img className='image_aline' alt='imag' src='https://img.freepik.com/free-photo/front-view-female-student-red-shirt-with-backpack-holding-books-files-smiling-blue-wall_140725-38370.jpg?w=1060&t=st=1677344562~exp=1677345162~hmac=87aa91f47c3d375cddb75b2c2ab3a2ba8b8dad50238111b2be708aa2b921ddaf'/>
-          <h2>Example image</h2>
+          <h2>Example image - teja branch</h2>
           </div>
         </div>
       </div>
